@@ -2,30 +2,18 @@ apt update
 
 apt install git -y
 
-git clone git://github.com/htr-tech/nexphisher.git
+git clone https://github.com/yudialifahmi/BAZ.py
 
-cd nexphisher
+cd BAZ.py
 
 > PENGATURAN :bash setup
 
 > PENGATURAN [TERMUX] :bash tmux_setup
 
-> Jalankan :bash nexphisher
+> Jalankan :bash BAZ.py
 
 Perintah Tunggal :
 
-apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher 
-
-
-￼ ￼
-
-
-
-
-
-
-
-
-
+apt update ; apt install git -y ; git clone https://github.com/yudialifahmi/BAZ.py; cd BAZ.py ; bash setup ; bash BAZ.py
 
 
